@@ -27,6 +27,10 @@ img {
     text-align: center;
     position: relative;
 }
+#myImage {
+    width: 50%; /* Or you can specify pixels, e.g., 300px */
+    height: auto; /* Keeps the aspect ratio intact */
+}
 
 /* BIG text styling for the hero section text */
 .hero-text {
